@@ -1,0 +1,9 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data files
+*.csv
+
+# Ignore temporary files
+*.tmp
+*.log
