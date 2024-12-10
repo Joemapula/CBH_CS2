@@ -3,7 +3,19 @@
 
 # Ignore large data files
 *.csv
-
+ data/
 # Ignore temporary files
 *.tmp
 *.log
+# Ignore environment files just in case 
+*.env
+*.venv
+*.DS_Store
+
+# Ignore Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore outputs
+outputs/
